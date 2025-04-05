@@ -8,13 +8,11 @@
 <br/>`npm start`
 
 ### Notes
-<br> - A mongoDB database needs to be connected to use this project as is. An .env file in the server folder with the following keys is required:
+- A mongoDB database needs to be connected to use this project as is. An .env file in the server folder with the following keys is required:
 MONGODB_URI, JWT_SECRET, and JWT_EXPIRATION
-"<br/>
-<br>
 - Coming Soon: auth requests middleware, logging middleware, and  improved SSE or Websockets.
-<br/>
 - [Demo Video](https://youtu.be/mEsYUYDX8vM)
+
 ### Friends List and Chat
 ![Vite-React-TS-02-16-2025_07_04_PM](https://github.com/user-attachments/assets/cf701d83-cea5-4475-a957-8f7521141339)
 ### Invite Friends
